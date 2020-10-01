@@ -111,10 +111,11 @@ body{
 .back{
     color: white;
 }
+
 a i{
     color: white;
+    margin: 10px;
 }
-
 
 a:hover .fa-facebook{
     color: #3b4998;
